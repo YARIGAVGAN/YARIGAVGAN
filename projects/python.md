@@ -47,28 +47,6 @@ Repository: [AirCursor](https://github.com/YARIGAVGAN/AirCursor)
 
 ---
 
-## Future Python project
-
-[![Project cover](../assets/covers/placeholder-cover.png)](https://github.com/YARIGAVGAN)
-
-Short product description.
-
-### My role
-
-Describe what you personally built.
-
-### Stack
-
-Python, OpenCV, FastAPI, automation tools.
-
-### What it demonstrates
-
-- automation;
-- tooling;
-- data processing;
-- architecture;
-- integration logic.
-
 ### Links
 
 Repository: [Open repository](https://github.com/YARIGAVGAN)
