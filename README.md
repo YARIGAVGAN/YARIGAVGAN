@@ -26,7 +26,7 @@ My focus is not just writing separate screens. I build mobile applications as wo
 - Mobile app UX structure and product flow
 - Automation tools and computer vision prototypes with Python
 
-## Featured projects
+## Last projects
 
 ### IseuSchedule
 
