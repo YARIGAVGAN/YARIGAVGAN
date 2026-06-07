@@ -49,28 +49,6 @@ Repository: [IseuSchedule_V2](https://github.com/YARIGAVGAN/IseuSchedule_V2)
 
 ---
 
-## Future Android project
-
-[![Project cover](../assets/covers/placeholder-cover.png)](https://github.com/YARIGAVGAN)
-
-Short product description.
-
-### My role
-
-Describe what you personally built.
-
-### Stack
-
-Kotlin, Jetpack Compose, Room, DataStore, Retrofit.
-
-### What it demonstrates
-
-- app architecture;
-- feature implementation;
-- offline logic;
-- UI structure;
-- real product flow.
-
 ### Links
 
 Repository: [Open repository](https://github.com/YARIGAVGAN)
